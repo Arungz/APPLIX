@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+appilix.com	TRUE	/	FALSE	1999999999	PHPSESSID	gjnd44ghq1pbh0jom3d6frids5
+

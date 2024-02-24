@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Feb 2024 23:17:36 at https://appilix.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://appilix.com/ -O1 "D:\website\APPLIX" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:17:58	Warning: 	Found for https://appilix.com/account/
+23:17:58	Warning: 	File has moved from https://appilix.com/account/ to https://appilix.com/account/login
+23:18:04	Warning: 	Link https://appilix.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 73 links scanned, 71 files written (4853566 bytes overall) [2445351 bytes received at 84322 bytes/sec], 3913222 bytes transferred using HTTP compression in 54 files, ratio 36%, 26.3 requests per connection
+(No errors, 3 warnings, 0 messages)
